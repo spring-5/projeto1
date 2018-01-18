@@ -1,4 +1,2 @@
 # projeto1
-Projeto feito com JPA
-
-Basta executar o projeto no STS
+Projeto do módulo de Spring Web com Nataniel Paiva
